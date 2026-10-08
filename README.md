@@ -25,6 +25,8 @@ I Ritvik Remesh, will only claim evidence i can show.
 
 I Maria Jenson, will only claim evidence i can show.
 
+I Thejus Sivan, will only claim evidence i can show.
+
 ## Day log
 | Day | Stone | What we built | Evidence link |
 |---|---|---|---|
