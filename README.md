@@ -15,6 +15,7 @@
 ## Integrity pact
 We will only claim evidence we can show. We will verify every AI claim.
 
+I ANANTHA KRISHNAN will only claim evidence i can show 
 ## Day log
 | Day | Stone | What we built | Evidence link |
 |---|---|---|---|
