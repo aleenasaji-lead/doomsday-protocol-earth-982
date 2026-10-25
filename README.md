@@ -82,3 +82,63 @@ Note: DoomCopy is treated as a hypothetical competitor for this analysis.
 
 Brand vs Rival chart of past 12 months from Google trends:
 https://drive.google.com/file/d/1k6tiLB1jaTM4XQ468wybS3_jH_Gy90gv/view?usp=sharing
+
+
+----------------------------------------------------------------------------------------------------------------------
+
+100-Day Marketing Plan Deck ($250,000 Budget)
+
+
+
+
+
+Team: Captain & Stark | Brand: Apple – Earth-982 | PLAN DECK
+
+ACTION PLAN & BUDGET ALLOCATION | 100-Day Marketing Plan Deck ($250,000 Budget)
+
+Channel Breakdown & Targets
+
+100-Day Timeline & Ownership
+
+Total: $250,000
+
+Days 1–30 (Setup): Digital Marketing Analyst (GA4, KPIs, Landing pages, Segments)
+
+
+
+ 
+   Channel                              Budget ($)                            KPI                       Target in 100 Days
+   
+1 Google Search Ads                      $60,000                          Conversion rate               Achieve 3% conversion rate
+2 YouTube Video Campaigns                $45,000                       Video completion rate            Achieve 30% completion rate
+3 Instagram & Facebook Ads               $40,000                          Engagement rate               Achieve 4% engagement rate
+4 Creator & Influencer Partnerships      $35,000                          Engagement rate               Achieve 5% engagement rate
+5 Apple.com SEO & Product Content        $30,000                          Organic traffic                  Increase by 15%
+6 Email & Apple Store App Marketing      $15,000                         Click-through rate                 Achieve 4% CTR
+7 Retargeting Campaigns                  $25,000                     Return on ad spend (ROAS)             Achieve 4× ROAS
+
+
+------------------------------------------------------------------------------------------------------------------------------------------------
+
+Days 31–70 (Launch): Campaign Manager (Google Ads, Social, Video, Email Automation)
+
+Days 71–100 (Optimize): Marketing Manager (Analytics, A/B Testing, Conversion Optimization)
+
+Automation Workflow
+
+Trigger: User sign-up / guide download
+
+Action 1: Welcome email
+
+Action 2: Product info email (Day 2
+
+Action 3: Follow-up email (Day 5 if non-converted)
+
+Stop condition: Purchase or Unsubscribe
+
+Apple – Earth-982 Digital Marketing Strategy | Plan Deck
+
+
+
+
+
