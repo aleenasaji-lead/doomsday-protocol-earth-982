@@ -80,3 +80,5 @@ Note: DoomCopy is treated as a hypothetical competitor for this analysis.
 
 **Measurement:** Record baseline performance before the 100-day period and compare results at the end. These are proposed assignment targets, not Apple's actual internal targets.
 
+Brand vs Rival chart of past 12 months from Google trends:
+https://drive.google.com/file/d/1k6tiLB1jaTM4XQ468wybS3_jH_Gy90gv/view?usp=sharing
